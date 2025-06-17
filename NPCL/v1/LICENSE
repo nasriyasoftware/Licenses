@@ -4,36 +4,38 @@ https://github.com/nasriyasoftware/licenses/blob/main/NPCL/license.md
 By downloading, accessing, or using this software, you agree to the terms of this License Agreement.
 
 1. License Grant:  
-   You are granted a limited, non-exclusive, non-transferable license to use this software for **personal purposes free of charge**, and for **commercial purposes only upon payment** of the applicable fees, subject to the terms of this License Agreement.
+   You are granted a limited, non-exclusive, non-transferable license to use this software for **personal purposes free of charge**, and for **commercial purposes only upon payment** of the applicable licensing fees, subject to the terms outlined herein.
 
 2. Validation:  
-   The software may occasionally connect to Nasriya Software servers to validate your license. You agree to this automatic validation as a condition of use.
+   The Software may periodically communicate with Nasriya Software servers to validate your license. You expressly consent to this validation mechanism as a condition of use.
 
 3. Restrictions:  
    You may not:  
    - Copy, redistribute, or sublicense the Software.  
-   - Modify or create derivative works.  
-   - Reverse engineer, decompile, or disassemble the Software.  
+   - Modify, adapt, or create derivative works.  
+   - Reverse engineer, decompile, or disassemble any part of the Software.  
    - Host, mirror, or publish the Software or its source code.  
-   - Fork or mirror the Software repository.
+   - Fork or mirror the Software repository or re-upload its contents.
 
 4. Ownership:  
-   The Software is the intellectual property of Nasriya Software. All rights not explicitly granted are reserved.
+   The Software remains the sole intellectual property of Nasriya Software. All rights not explicitly granted are reserved.
 
 5. Attribution:  
-   You must give appropriate credit to **Nasriya Software** as the original author of the Software. This includes, but is not limited to, displaying an attribution notice in product documentation, “About” pages, or other relevant locations where the Software is used or referenced. The attribution must not suggest endorsement or sponsorship.
+   You must provide clear and visible credit to **Nasriya Software** as the original author. This includes, but is not limited to, displaying attribution in product documentation, “About” dialogs, or equivalent notices. Attribution must not imply any endorsement or partnership.
 
 6. No Endorsement:  
-   The name “Nasriya Software” may not be used to endorse or promote derivative works or related products without prior written permission.
+   The name “Nasriya Software” or any associated marks may not be used to promote or endorse derivative works, products, or services without prior written permission.
 
 7. Warranty and Liability:  
-   THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM YOUR USE OF THE SOFTWARE.
+   THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL NASRIYA SOFTWARE OR ITS AUTHORS BE LIABLE FOR ANY CLAIMS, DAMAGES, OR OTHER LIABILITY ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
 
-8. Revocation:  
-   This license may be revoked at any time, with or without notice, at the sole discretion of Nasriya Software.
+8. Revocation & Renewal:  
+   - **Personal-use licenses** may be revoked at any time, for any reason or no reason, with or without prior notice.  
+   - **Commercial licenses** cannot be unilaterally revoked during an active term; however, **Nasriya Software reserves the right to decline renewal** at its sole discretion.  
+   - Commercial licenses are subject to automatic renewal via recurring payment. If a renewal payment fails, a **grace period of seven (7) days** will be provided, after which the license may be suspended or terminated.
 
 9. Modification Requests:  
-   You may propose changes only through GitHub pull requests to the original repository. All other modifications are prohibited.
+   You may submit proposed changes exclusively via GitHub pull requests to the official repository. All other modifications, forks, or republishing are strictly prohibited.
 
 Full license text available at:  
 https://github.com/nasriyasoftware/licenses/blob/main/NPCL/license.md

@@ -48,9 +48,10 @@ Attribution must not imply **endorsement or affiliation**.
 
 You may not use the name **“Nasriya Software”** or **“Ahmad Nasriya”** to promote, market, or associate with derivative or bundled products without **explicit written permission**.
 
-## 🔁 Revocation Clause
-
-Nasriya Software reserves the right to **revoke the license** at any time if terms are violated, including misuse or non-compliance with validation.
+## 🔁 Revocation & Renewal Policy
+- **Personal-use licenses** may be revoked at any time, for any reason, with or without notice.
+- **Commercial licenses** are not subject to arbitrary revocation during an active term. However, Nasriya Software reserves the right to **decline renewal** at its sole discretion.
+- Commercial licenses are automatically renewed through recurring billing. If a renewal payment fails, a **7-day grace period** will apply. If payment is not resolved within that period, the license may be suspended or terminated.
 
 ## ⚠️ Warranty Disclaimer
 
