@@ -9,9 +9,9 @@ This repo centrally hosts all license texts used across our open-source and comm
 
 | License Name                                   | Description                                                                                                 | Version | Link                                 |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------- | ------------------------------------ |
-| 📄 Nasriya Personal Use License (NPUL)          | Free for all personal and non-commercial use, with restrictions on copying, distribution, and modification. | 1.0     | [View License](./npul/v1/LICENSE.md) |
-| ⚖️ Nasriya Personal & Commercial License (NPCL) | Free for personal use only. Commercial use requires a paid license.                                         | 1.0     | [View License](./npcl/v1/LICENSE.md) |
-| 💰 Nasriya Commercial License (NCL)             | Paid license required for any commercial use.                                                               | 1.0     | [View License](./ncl/v1/LICENSE.md)  |
+| 📄 Nasriya Personal Use License (NPUL)          | Free for all personal and non-commercial use, with restrictions on copying, distribution, and modification. | 1.0     | [View License](./NPUL/v1/LICENSE.md) |
+| ⚖️ Nasriya Personal & Commercial License (NPCL) | Free for personal use only. Commercial use requires a paid license.                                         | 1.0     | [View License](./NPCL/v1/LICENSE.md) |
+| 💰 Nasriya Commercial License (NCL)             | Paid license required for any commercial use.                                                               | 1.0     | [View License](./NCL/v1/LICENSE.md)  |
 
 ## License Comparison Summary
 
@@ -34,11 +34,11 @@ This repo centrally hosts all license texts used across our open-source and comm
 Each Nasriya Software package references one of these licenses via its `package.json` or documentation by linking to the appropriate license URL, for example:
 
 ```js
-https://nasriya.software/licenses/npul/license.md
+https://nasriya.software/licenses/NPUL/license.md
 ```
 Or
 ```js
-https://github.com/nasriyasoftware/licenses/blob/main/npcl/license.md
+https://github.com/nasriyasoftware/licenses/blob/main/NPCL/license.md
 ```
 
 ---
@@ -60,3 +60,6 @@ For questions about licensing, commercial agreements, or to request a commercial
 ---
 
 Thank you for using Nasriya Software products!
+
+https://github.com/ahmadnasriya/Licenses/blob/main/NPUL/v1/LICENSE.md
+https://github.com/ahmadnasriya/Licenses/blob/main/NPUL/v1/LICENSE.md
