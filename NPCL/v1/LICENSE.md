@@ -2,7 +2,9 @@
 
 > [!IMPORTANT]  
 > Version: 1.0  
+> 
 > Effective Date: June 17, 2025  
+> 
 > [Full Legal License](./LICENSE)
 
 ---
