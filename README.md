@@ -9,7 +9,7 @@ This repo centrally hosts all license texts used across our open-source and comm
 
 | License Name                               | Description                                                                                     | Version | Pricing     | Link                                 |
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------- | ------- | ----------- | ------------------------------------ |
-| 🆓 Nasriya Open License (NOL)              | Free for all personal and commercial use, with restrictions on redistribution and modification. | 1.0     | 🎉 Free      | [View License](./NOL/v1/LICENSE.md)  |
+| 🎉 Nasriya Open License (NOL)              | Free for all personal and commercial use, with restrictions on redistribution and modification. | 1.0     | 🎉 Free      | [View License](./NOL/v1/LICENSE.md)  |
 | ⚖️ Nasriya Personal & Commercial License (NPCL) | Free for personal use only. Commercial use requires a paid license.                               | 1.0     | 🎉 Free (Personal), 💰 Paid (Commercial) | [View License](./NPCL/v1/LICENSE.md) |
 | 💰 Nasriya Commercial License (NCL)        | Paid license required for any commercial use.                                                   | 1.0     | 💰 Paid      | [View License](./NCL/v1/LICENSE.md)  |
 
